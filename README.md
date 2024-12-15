@@ -50,8 +50,10 @@ The project demonstrates the challenges of optimizing a deep learning model for 
 
 ## How to Run
 
-1. Clone the repository:
+1. Clone the repository.
 
-2. Install the required packages from requirements.txt:
+2. Install the required packages from requirements.txt.
 
-3. Run the Jupyter notebook:
+3. Run the Jupyter notebook in the folder where the Notebook is located.
+
+* NB - please note that the packages in the requirements.txt file are as per the stable version at the time of writing the original project. You may need to update the packages based on the latest versions which might affect the code.
